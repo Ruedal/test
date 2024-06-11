@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2024-06-01",
+      "amount": 1000,
+      "type": "income"
+    },
+    {
+      "id": 2,
+      "date": "2024-06-05",
+      "amount": -200,
+      "type": "expense"
+    }
+  ]
+}
